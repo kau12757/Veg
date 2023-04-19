@@ -8,7 +8,6 @@ package week9_vegetable;
 /**
  *
  * @author srinivsi
- * Carrot not yummy
  */
 public class Carrot extends Vegetable implements Organic
 {
