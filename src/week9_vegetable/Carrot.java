@@ -15,6 +15,7 @@ public class Carrot extends Vegetable implements Organic
     public Carrot(String name,String color)
   {
       super(name,color);
+      //name and color
   }
    @Override
    public boolean isTasty()//abstract method
